@@ -1,2 +1,1 @@
-# yang-cli
-A simple CLI for creating your project
+## A simple CLI for creating your project
